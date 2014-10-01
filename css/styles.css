@@ -1,6 +1,23 @@
-/* Your Website Styles */
+/* Lettering */
+.char1,
+.char3,
+.char5,
+.char7 {
+	color:blue; 
+}
 
+.line1{
+	
+}
 
+.word1 {
+	color:cornflowerblue; 
+}
+
+.word4{
+	color:green;
+	letter-spacing: -1px;
+}
 /* Show Grid */
 .showgrid {
 	background: url("../img/grid-bg.png") repeat-y;
